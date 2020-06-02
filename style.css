@@ -12,7 +12,8 @@ nav{
   font-weight: 700;
   font-family: sans-serif, Arial;
   font-size: 24px;
-  text-align: right;
+  text-align: left;
+  padding: 20px;
 }
 
 a:link {color: darkblue;}
