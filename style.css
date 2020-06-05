@@ -22,8 +22,10 @@ nav{
 }
 
 img{
+  width: 100%;
  margin-bottom: 50px;
 }
+
 a:link {color: darkblue;}
 a:visited {color: darkcyan;}
 a:hover {color: crimson;}
@@ -60,4 +62,5 @@ blockquote{
 hr{
   margin: 70px;
 }
+
 
